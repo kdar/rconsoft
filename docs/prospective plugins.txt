@@ -1,0 +1,3 @@
+Trac implements a nice plugin architecture similar to mine. I might implement
+some of its concepts like separate environments (via the Environment class) and
+a ComponentManager.

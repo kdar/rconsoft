@@ -1,0 +1,16 @@
+Monitor rcon_password. If someone changes it, update the config. But you should probably
+keep a default_rcon_password to revert to if the new password doesn't work anymore.
+
+The tracker class needs a way to register what cvars to track so on startup it can
+query for those cvars and keep them (ontop of tracking them as they change).
+
+Tell in chat the score of last half. My idea is that you start keeping score after a lo3. Then
+if you were to lo3 again, it tells you the score of last half. You could make it complicated and do
+the entire game and such, but there are a lot of variables to consider. Such as someone restarting
+the round once (happens often if someone was afk) or you lo3 multiple times before the real lo3.
+
+If users are already in the server and rconsoft boots up, get their ip. Probably via "stat".
+
+Allow rconsoft to shutdown. Plugins should be able to hook into the shutdown event and
+rconsoft should wait for them. Maybe there should also be a timeout where rconsoft
+will shutdown anyways.

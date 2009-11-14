@@ -1,0 +1,3 @@
+[console_scripts]
+rconsoft = rconsoft.app:main_func
+

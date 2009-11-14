@@ -1,0 +1,9 @@
+    # Netscape HTTP Cookie File
+    # http://www.netscape.com/newsref/std/cookie_spec.html
+    # This is a generated file!  Do not edit.
+
+www.ip2location.com	FALSE	/	FALSE	1268755200	IP2LocationDemoEmail	GPxOVLDcDcDLXqXQYuoeFw==
+www.ip2location.com	FALSE	/	FALSE	1268755200	IP2LocationDemoPassword	KrncP007SK0b93FcLLTjiQ==
+www.ip2location.com	FALSE	/	FALSE	1268755200	IP2LocationEmail	GPxOVLDcDcDLXqXQYuoeFw==
+www.ip2location.com	FALSE	/	FALSE	1268755200	IP2LocationPassword	KrncP007SK0b93FcLLTjiQ==
+www.ip2location.com	FALSE	/	FALSE	1300291200	firstvisit	firstvisit=2009-03-17 6:07:24
