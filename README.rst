@@ -1,3 +1,5 @@
+http://outroot.com/blog/2009/12/02/rconsoft-hl1-chat-command-rcon-tool/
+
 What is it?
 ===========
 
